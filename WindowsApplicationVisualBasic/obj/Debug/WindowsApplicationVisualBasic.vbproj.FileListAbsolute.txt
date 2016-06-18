@@ -1,0 +1,11 @@
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\bin\Debug\WindowsApplicationVisualBasic.exe.config
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\bin\Debug\WindowsApplicationVisualBasic.exe
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\bin\Debug\WindowsApplicationVisualBasic.pdb
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\bin\Debug\WindowsApplicationVisualBasic.xml
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.vbprojResolveAssemblyReference.cache
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.Form1.resources
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.Resources.resources
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.vbproj.GenerateResource.Cache
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.exe
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.xml
+c:\users\vladw\onedrive\documents\visual studio 2015\Projects\WindowsApplicationVisualBasic\WindowsApplicationVisualBasic\obj\Debug\WindowsApplicationVisualBasic.pdb
